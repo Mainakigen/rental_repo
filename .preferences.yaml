@@ -1,0 +1,3 @@
+sync_config:
+  enable_git_integration: null
+  repo_path: /home/src/[project_name]
